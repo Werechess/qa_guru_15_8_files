@@ -1,0 +1,14 @@
+{
+  "name": "Moscow Zoo",
+  "area": "53",
+  "isOpenForVisit": true,
+  "animals": [
+    "Asiatic lion",
+    "Sable antelope",
+    "Tundra wolf"
+  ],
+  "ticket": {
+    "age": "adult",
+    "price": "800"
+  }
+}
